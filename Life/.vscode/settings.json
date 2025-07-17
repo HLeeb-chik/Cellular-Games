@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ps1": "csharp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "string_view": "cpp"
+    }
+}
